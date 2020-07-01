@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: goldenrod;
+    margin: 0;
+    padding: 180px;
+}
